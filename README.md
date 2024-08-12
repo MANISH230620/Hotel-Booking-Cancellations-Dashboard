@@ -6,7 +6,7 @@ The project revolves around analyzing hotel booking cancellations through a comp
 ![image](https://github.com/user-attachments/assets/71d3aa57-b1d1-447a-b2a9-6c238fd76294)
 
 
-Key Objectives:
+## Key Objectives:
 
 Understand Cancellation Trends: By analyzing data across different years and months, the project seeks to identify when cancellations are most likely to occur.
 
@@ -18,18 +18,18 @@ Booking Outcome Insights: By distinguishing between desired and un-desired booki
 
 ## Features of the Dashboard
 
--*Time Filters: Allows for analysis by year and month, helping to identify seasonal trends.
+- Time Filters: Allows for analysis by year and month, helping to identify seasonal trends.
 
--*Guest Type Filters: Segmentation based on the type of guest.
+- Guest Type Filters: Segmentation based on the type of guest.
 
--*Hotel Type Filters: Comparison between city hotels and resort hotels.
+- Hotel Type Filters: Comparison between city hotels and resort hotels.
 
--*Booking Status Analysis: Differentiation between successful and canceled bookings.
+- Booking Status Analysis: Differentiation between successful and canceled bookings.
 
 ## Use Cases
 
--*Hotel Management: Improve strategies to reduce cancellations.
+- Hotel Management: Improve strategies to reduce cancellations.
 
--*Revenue Management: Identify trends to maximize occupancy rates.
+- Revenue Management: Identify trends to maximize occupancy rates.
 
--*Marketing: Target specific guest types or seasons with tailored campaigns.
+- Marketing: Target specific guest types or seasons with tailored campaigns.
