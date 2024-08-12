@@ -3,6 +3,9 @@
 
 The project revolves around analyzing hotel booking cancellations through a comprehensive dashboard. The primary goal is to understand the patterns and trends associated with hotel bookings and cancellations over a specified period, specifically from 2015 to 2017. The dashboard provides a detailed view of the total number of bookings, cancellations, and successful check-ins, offering insights into various factors that may influence these metrics.
 
+![image](https://github.com/user-attachments/assets/71d3aa57-b1d1-447a-b2a9-6c238fd76294)
+
+
 Key Objectives:
 
 Understand Cancellation Trends: By analyzing data across different years and months, the project seeks to identify when cancellations are most likely to occur.
